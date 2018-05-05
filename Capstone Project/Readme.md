@@ -9,4 +9,4 @@ My solution is submitted at the following page:
 https://www.kaggle.com/c/whale-categorization-playground/leaderboard
 
 The accuracy function that is used to calculate the accuracy is
-I have indicated in the project proposal document that I would be trying to exceed the base sample submission score as indicated 0.32786
+I have indicated in the project proposal document that I would be trying to exceed the base sample submission score of 0.32786
